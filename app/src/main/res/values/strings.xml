@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tilt Meter</string>
+    <string name="label_start">Start</string>
+    <string name="label_stop">Stop</string>
+    <string name="label_measure">Measure</string>
+    <string name="label_last_data">Last Data</string>
+    <string name="label_empty">Empty</string>
+    <string name="label_sensor_not_available">Sensor not available</string>
+    <string name="google_maps_api_key">AIzaSyCBvbqLNA4_-7g1j4-zD9Ho1CVHjPl4HGM</string>
+    <string name="label_my_location">My Location</string>
+</resources>
